@@ -14,7 +14,7 @@ The first variables studied are how the price change due to size and color. It i
 It is observed that the diamonds with clarity IF are the most expensive with lower carat.
 It is also observed that diamonds of color D are the most expensive at lower carat.
 
-![Alt text](./images/carat_price.png/')
+![Alt text](./images/carat_price.png/)
 
 
 ### Conclusion
