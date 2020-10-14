@@ -25,3 +25,8 @@ However, this diamonds are also the most strange ones because when we compare th
 
 The cheapest diamonds are diamonds with SI2 clarity and J color. Their price grow linearly. However, when we check the mean price of these diamonds it is observed that they are the highest one, thus is due to the fact that this diamonds are commonly found in huge shapes and clearness.
 
+
+### LINK to TABLEAU PUBLIC
+
+If you want more information about the diamonds dataset exploratory analysis you can check my tableau public acount!
+https://public.tableau.com/profile/diego4867?reset_password=e1629a13-3703-4601-89aa-3cc7bc7a6fdc#!/vizhome/Diamonds_15960466989090/Dashboard1
