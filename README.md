@@ -29,4 +29,4 @@ The cheapest diamonds are diamonds with SI2 clarity and J color. Their price gro
 ### LINK to TABLEAU PUBLIC
 
 If you want more information about the diamonds dataset exploratory analysis you can check my tableau public acount!
-https://public.tableau.com/profile/diego4867?reset_password=e1629a13-3703-4601-89aa-3cc7bc7a6fdc#!/vizhome/Diamonds_15960466989090/Dashboard1
+https://public.tableau.com/profile/diego4867#!/vizhome/Diamonds_15960466989090/Dashboard1
